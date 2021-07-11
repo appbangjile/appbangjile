@@ -63,4 +63,4 @@
 
 gitee地址：https://gitee.com/pengzhile/ide-eval-resetter
 
-备用地址：
+备用地址：https://github.com/willcrisling/appbangjile/blob/master/asset/ide-eval-resetter-2.1.6.zip
