@@ -1,4 +1,4 @@
-# intellij idea的终极破解解决方案
+# Intellij Idea的终极破解解决方案
 ## 方案一：IntelliJ IDEA社区版+强大插件
 ### 1、Smart Tomcat
 * 一款可以自动加载Webapp类和库Tomcat服务器的插件，无需将类和库复制到WEB-INF/classes和WEB-INF/lib；
