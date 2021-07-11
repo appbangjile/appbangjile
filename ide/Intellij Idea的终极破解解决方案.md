@@ -9,8 +9,7 @@
 
 * 一款可用于快速创建SpringBoot应用的插件
 
-![img](https://mine-doc.oss-cn-beijing.aliyuncs.com/blogblogwebp)
-
+![Spring Assistant](https://mine-doc.oss-cn-beijing.aliyuncs.com/bloghelp.gif)
 ### 3、Database Navigator
 
 * 一款介于JDBC和Navicat之间的数据库管理神器，它提供了高级数据库连接管理、脚本执行支持、数据库对象浏览、数据和代码编辑器、数据库编译器操作支持、方法执行和调试支持、数据库对象工厂以及所有组件之间的各种导航功能。
